@@ -1,4 +1,4 @@
-# Tennis Match Data Analysis – Old Dominion University
+# ODU Men's Tennis Match Data Analysis
 
 This project analyzes match statistics for the Old Dominion University Men's Tennis Team.
 
